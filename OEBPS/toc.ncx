@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+	<head>
+		<meta content="isbn-000-0-000-00000-0" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>The Beauty of Dreaming</text>
+	</docTitle>
+	<navMap>
+	
+		<navPoint class="chapter" id="title" playOrder="1">
+			<navLabel>
+				<text>Title Page</text>
+			</navLabel>
+			<content src="Text/title.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="copyright" playOrder="2">
+			<navLabel>
+				<text>Copyright Page</text>
+			</navLabel>
+			<content src="Text/copyright.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="toc" playOrder="3">
+			<navLabel>
+				<text>Table of Contents</text>
+			</navLabel>
+			<content src="Text/toc.xhtml"/>
+		</navPoint>
+		
+		<navPoint class="chapter" id="dedication" playOrder="4">
+			<navLabel>
+				<text>Dedication Page</text>
+			</navLabel>
+			<content src="Text/dedication.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="prologue" playOrder="5">
+			<navLabel>
+				<text>Prologue Page</text>
+			</navLabel>
+			<content src="Text/prologue.xhtml"/>
+		</navPoint>
+	
+		
+		
+		
+		<navPoint class="chapter" id="chap01" playOrder="6">
+			<navLabel>
+				<text>Story 01 - A Day in the Desert</text>
+			</navLabel>
+			<content src="Text/chap01.xhtml"/>
+		</navPoint>
+		
+		<navPoint class="chapter" id="chap02" playOrder="7">
+			<navLabel>
+				<text>Recit 02 - Le Chaos</text>
+			</navLabel>
+			<content src="Text/chap02.xhtml"/>
+		</navPoint>
+		
+		<navPoint class="chapter" id="chap03" playOrder="8">
+			<navLabel>
+				<text>Story 03 - Am I a Physicist</text>
+			</navLabel>
+			<content src="Text/chap03.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap04" playOrder="9">
+			<navLabel>
+				<text>Recit 04 - Le Fantasme de la Guerre</text>
+			</navLabel>
+			<content src="Text/chap04.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap05" playOrder="10">
+			<navLabel>
+				<text>Story 05 - Easier to Run</text>
+			</navLabel>
+			<content src="Text/chap05.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap06" playOrder="11">
+			<navLabel>
+				<text>Poem 06 - I Love You</text>
+			</navLabel>
+			<content src="Text/chap06.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap07" playOrder="12">
+			<navLabel>
+				<text>Poem 07 - Justice or Not</text>
+			</navLabel>
+			<content src="Text/chap07.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap08" playOrder="13">
+			<navLabel>
+				<text>Story 08 - Khalif and the Artificial Intelligence</text>
+			</navLabel>
+			<content src="Text/chap08.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap09" playOrder="14">
+			<navLabel>
+				<text>Recit 09 - Le Quartier des Artistes</text>
+			</navLabel>
+			<content src="Text/chap09.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap10" playOrder="15">
+			<navLabel>
+				<text>Poem 10 - My Madness</text>
+			</navLabel>
+			<content src="Text/chap10.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap11" playOrder="16">
+			<navLabel>
+				<text>Story 11 - You Could Be my Wife</text>
+			</navLabel>
+			<content src="Text/chap11.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap12" playOrder="17">
+			<navLabel>
+				<text>Song 12 - Soldier Song</text>
+			</navLabel>
+			<content src="Text/chap12.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap13" playOrder="18">
+			<navLabel>
+				<text>Poem 13 - Teenage Secret Lover</text>
+			</navLabel>
+			<content src="Text/chap13.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap14" playOrder="19">
+			<navLabel>
+				<text>Story 14 - Teenage Years</text>
+			</navLabel>
+			<content src="Text/chap14.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap15" playOrder="20">
+			<navLabel>
+				<text>Story 15 - The Conscious Artificial Intelligence</text>
+			</navLabel>
+			<content src="Text/chap15.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap16" playOrder="21">
+			<navLabel>
+				<text>Story 16 - The Black Spot</text>
+			</navLabel>
+			<content src="Text/chap16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap17" playOrder="22">
+			<navLabel>
+				<text>Story 17 - The Color</text>
+			</navLabel>
+			<content src="Text/chap17.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap18" playOrder="23">
+			<navLabel>
+				<text>Story 18 - The Right Girl</text>
+			</navLabel>
+			<content src="Text/chap18.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap19" playOrder="24">
+			<navLabel>
+				<text>Story 19 - The Ride</text>
+			</navLabel>
+			<content src="Text/chap19.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap20" playOrder="25">
+			<navLabel>
+				<text>Story 20 - The Weak Spot</text>
+			</navLabel>
+			<content src="Text/chap20.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap21" playOrder="26">
+			<navLabel>
+				<text>Reflexion 21 - Est-ce que</text>
+			</navLabel>
+			<content src="Text/chap21.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap22" playOrder="27">
+			<navLabel>
+				<text>Story 22 - The Light from the Hell</text>
+			</navLabel>
+			<content src="Text/chap22.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap23" playOrder="28">
+			<navLabel>
+				<text>Recit 23 - Le Petit Ecrivain</text>
+			</navLabel>
+			<content src="Text/chap23.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap24" playOrder="29">
+			<navLabel>
+				<text>qsida 24 - مخنوق</text>
+			</navLabel>
+			<content src="Text/chap24.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap25" playOrder="30">
+			<navLabel>
+				<text>qsida 25 - يا يما</text>
+			</navLabel>
+			<content src="Text/chap25.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap26" playOrder="31">
+			<navLabel>
+				<text>Story 26 - Crypto</text>
+			</navLabel>
+			<content src="Text/chap26.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap27" playOrder="32">
+			<navLabel>
+				<text>Story 27 - The Mirror</text>
+			</navLabel>
+			<content src="Text/chap27.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap28" playOrder="33">
+			<navLabel>
+				<text>Rhyme 28 - The Young Guy I Was</text>
+			</navLabel>
+			<content src="Text/chap28.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap29" playOrder="34">
+			<navLabel>
+				<text>Story 29 - Is my Mother Dead?</text>
+			</navLabel>
+			<content src="Text/chap29.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap30" playOrder="35">
+			<navLabel>
+				<text>Story 30 - The Music</text>
+			</navLabel>
+			<content src="Text/chap30.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap31" playOrder="36">
+			<navLabel>
+				<text>Story 31 - The Lost Civilization</text>
+			</navLabel>
+			<content src="Text/chap31.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap32" playOrder="37">
+			<navLabel>
+				<text>Recit 32 - La Relation</text>
+			</navLabel>
+			<content src="Text/chap32.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="chap33" playOrder="38">
+			<navLabel>
+				<text>Story 33 - The Street of Misery</text>
+			</navLabel>
+			<content src="Text/chap33.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="epilogue" playOrder="39">
+			<navLabel>
+				<text>Epilogue</text>
+			</navLabel>
+			<content src="Text/epilogue.xhtml"/>
+		</navPoint>
+		
+		
+		<navPoint class="chapter" id="biography" playOrder="40">
+			<navLabel>
+				<text>Biography</text>
+			</navLabel>
+			<content src="Text/biography.xhtml"/>
+		</navPoint>
+		
+
+		<navPoint class="chapter" id="colophon" playOrder="41">
+			<navLabel>
+				<text>Colophon</text>
+			</navLabel>
+			<content src="Text/colophon.xhtml"/>
+		</navPoint>
+
+		
+		
+		<navPoint class="chapter" id="backcover" playOrder="42">
+			<navLabel>
+				<text>Backcover</text>
+			</navLabel>
+			<content src="Text/backcover.xhtml"/>
+		</navPoint>
+		
+	</navMap>
+</ncx>
