@@ -211,7 +211,7 @@
 
 		<navPoint class="chapter" id="chap24" playOrder="29">
 			<navLabel>
-				<text>qsida 24 - مخنوق</text>
+				<text>Story 24 - Wings</text>
 			</navLabel>
 			<content src="Text/chap24.xhtml"/>
 		</navPoint>
